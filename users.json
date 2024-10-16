@@ -3,8 +3,8 @@
         "first_name": "ahmed",
         "last_name": "baher",
         "password": "1234",
-        "profile_pic": "F:\\quz\\selective-focus-photography-of-purple-and-black-petaled-flower-wallpaper-28ee2ab6e71b084ec5b8195a1d26ad45.jpg",
-        "cover_pic": "F:\\quz\\selective-focus-photography-of-purple-and-black-petaled-flower-wallpaper-28ee2ab6e71b084ec5b8195a1d26ad45.jpg",
+        "profile_pic": "Profile_cover_pic.png",
+        "cover_pic": "Profile_cover_pic.png",
         "posts": {
             "1": {
                 "content": "This is John's first post!",
