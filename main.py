@@ -27,7 +27,7 @@ class SocialMediaApp:
         label.pack(pady=20)
 
         try:
-            image = Image.open("F:\\quz\\logo.jpg")  # Update this path to your image
+            image = Image.open("logo.jpg")  # Update this path to your image
             image = image.resize((400, 400),Image.LANCZOS)  # Resize image (optional)
             self.photo = ImageTk.PhotoImage(image)  # Create PhotoImage from the image
             image_label = tk.Label(self.current_page, image=self.photo, bg="#87CEEB")
