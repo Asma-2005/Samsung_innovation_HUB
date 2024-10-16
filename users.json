@@ -1,0 +1,68 @@
+{
+    "ahmed@gmail.com": {
+        "first_name": "ahmed",
+        "last_name": "baher",
+        "password": "1234",
+        "profile_pic": "F:\\quz\\selective-focus-photography-of-purple-and-black-petaled-flower-wallpaper-28ee2ab6e71b084ec5b8195a1d26ad45.jpg",
+        "cover_pic": "F:\\quz\\selective-focus-photography-of-purple-and-black-petaled-flower-wallpaper-28ee2ab6e71b084ec5b8195a1d26ad45.jpg",
+        "posts": {
+            "1": {
+                "content": "This is John's first post!",
+                "likes": 24,
+                "comment": [
+                    "Great post!",
+                    "hi",
+                    "welcome to sic hub"
+                ],
+                "date": "18/10/2024",
+                "liked_by": [
+                    "ahmed@gmail.com"
+                ]
+            },
+            "2": {
+                "content": "hi",
+                "likes": 0,
+                "comment": [],
+                "date": "17/10/2024",
+                "image": "F:/quz/2v.png"
+            }
+        }
+    },
+    "mohamed@gmail.com": {
+        "first_name": "mohmed",
+        "last_name": "ahmed",
+        "password": "1234",
+        "posts": {
+            "1": {
+                "content": "Hello, this is Jane's first post!",
+                "likes": 3,
+                "comment": [
+                    "Nice work!",
+                    "yes"
+                ],
+                "date": "17/10/2024"
+            }
+        }
+    },
+    "reem@gmail.com": {
+        "first_name": "reem",
+        "last_name": "waleed",
+        "password": "1234",
+        "profile_pic": "F:\\quz\\logo.jpg",
+        "cover_pic": "F:\\quz\\logo.jpg",
+        "posts": {
+            "2": {
+                "content": "Can someone help me with classes inheritance? i'm stuck :(",
+                "likes": 1,
+                "comment": [],
+                "date": "17/10/2024"
+            },
+            "3": {
+                "content": "i hate Tkinter :(((",
+                "likes": 1,
+                "comment": [],
+                "date": "17/10/2024"
+            }
+        }
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "group_chat": [
+        {
+            "sender": "ahmed@gmail.com",
+            "message": "Hello everyone!",
+            "timestamp": "2024-10-18 12:00"
+        },
+        {
+            "sender": "mohamed@gmail.com",
+            "message": "Hi Ahmed, how are you?",
+            "timestamp": "2024-10-18 12:05"
+        },
+        {
+            "sender": "reem@gmail.com",
+            "message": "Good to see you all here!",
+            "timestamp": "2024-10-18 12:10"
+        },
+        {
+            "sender": "ahmed@gmail.com",
+            "message": "glad to be here!!",
+            "timestamp": "2024-09-30 00:02"
+        },
+        {
+            "sender": "reem@gmail.com",
+            "message": "hi",
+            "timestamp": "2024-09-30 18:48"
+        },
+        {
+            "sender": "ahmed@gmail.com",
+            "message": "Can someone help me with this error? :((",
+            "timestamp": "2024-09-30 18:50"
+        }
+    ]
+}
